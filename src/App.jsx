@@ -13,7 +13,8 @@ import NaturalView from './pages/NaturalView';
 import Tools from './pages/Tools';
 import Portrait from './pages/portrait';
 import Light from './pages/light';
-import AppLayout from './components/app-layout.jsx/appLayout';
+import AppLayout from './components/app-layout/AppLayout';
+
 
 
 
